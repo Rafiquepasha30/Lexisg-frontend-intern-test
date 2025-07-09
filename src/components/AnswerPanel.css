@@ -1,0 +1,54 @@
+.answer-panel {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  padding: 2rem;
+  margin-top: 2rem;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+}
+
+.answer-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #111827;
+}
+
+.answer-text {
+  margin-bottom: 1.5rem;
+  line-height: 1.7;
+  color: #374151;
+}
+
+.citation-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: #111827;
+}
+
+.citation-text {
+  font-style: italic;
+  margin-bottom: 1rem;
+  color: #4b5563;
+}
+
+.citation-link {
+  display: inline-block;
+  background: #2563eb;
+  color: #ffffff;
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background 0.3s, transform 0.2s;
+}
+
+.citation-link:hover {
+  background: #1d4ed8;
+  transform: translateY(-2px);
+}
+
+.citation-link:active {
+  transform: translateY(0);
+}
