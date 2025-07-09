@@ -15,7 +15,12 @@ A minimal legal assistant interface that:
 - React.js
 - Plain CSS modules
 
+## Note
+Please click 1 to 2 time on open pdf button
+
 ## Run Locally
 ```bash
 npm install
 npm start
+
+
